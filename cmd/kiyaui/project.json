@@ -1,0 +1,18 @@
+{
+ "name": "kiyaui",
+ "description": "A frontend for the Kiya GCP based password manager",
+ "author": {
+  "name": "Joey Roosing",
+  "email": "kyura4k@gmail.com"
+ },
+ "version": "0.1.0",
+ "binaryname": "kiyaui",
+ "frontend": {
+  "dir": "frontend",
+  "install": "npm install",
+  "build": "npm run build",
+  "bridge": "src",
+  "serve": "npm run serve"
+ },
+ "WailsVersion": ""
+}
