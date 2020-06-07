@@ -7,7 +7,6 @@ import (
 
 	cloudkms "cloud.google.com/go/kms/apiv1"
 	cloudstore "cloud.google.com/go/storage"
-	"github.com/kramphub/kiya"
 	"github.com/leaanthony/mewn"
 	"github.com/wailsapp/wails"
 	"golang.org/x/oauth2/google"
